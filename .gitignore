@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Data files (too large for git)
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+
+# Claude memory
+.claude/
